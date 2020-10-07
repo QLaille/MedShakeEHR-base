@@ -18,3 +18,4 @@ MedShakeEHR-base constitue le coeur commun du logiciel. Il peut être accompagn�
 MedShakeEHR fonctionne sur un serveur xAMP.  
 
 L'installation et la configuration complète du logiciel sont documentées sur le site [www.logiciel-cabinet-medical.fr](http://www.logiciel-cabinet-medical.fr/) à la rubrique [Documentation technique](http://www.logiciel-cabinet-medical.fr/documentation-technique/).
+
